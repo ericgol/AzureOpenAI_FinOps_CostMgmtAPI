@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json;
 
 // ===== CONFIGURATION =====
-var subscriptionId = "f97772c2-6385-4f23-8cda-22295a1ad20b";
+var subscriptionId = "YOUR_SUBSCRIPTION_ID";
 // =========================
 
 var today = DateTime.UtcNow.Date;
